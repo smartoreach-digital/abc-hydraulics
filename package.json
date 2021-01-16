@@ -2,7 +2,7 @@
   "name": "manufacturing-website",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "lite-server": "^2.6.1"
   },

@@ -80,6 +80,33 @@
   object-fit: contain;
 }
 
+
+
+.SW07-01-address-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 5px;
+}
+.SW07-01-address-card {
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+
+}
+.SW07-01-address-card p {
+  min-height: 6rem;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #888;
+}
+.SW07-01-address h2 {
+  margin-top: 30px;
+  color: #7C7C7C;
+  font-size: 2rem;
+  letter-spacing: 0.3rem;
+  color: rgb(44,63,78);
+}
 @media (max-width:576px) {
   .SW07-01-grid {
     display: grid;
@@ -95,6 +122,10 @@
   }
   .SW07-01-map {
     min-height: 250px;
+  }
+  .SW07-01-address-grid  {
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
   }
 }
 
