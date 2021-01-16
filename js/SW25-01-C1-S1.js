@@ -9,25 +9,18 @@ const cancelButton = () => {
 
 
 let projectData = [
-    {title: "Project Title 1", 
-    description: "Project description 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    {title: "JCB Hydraulic Service",
+    description: "We had rich experience of doing JCB cylinder. We can do any kind of JCB hydraulic cylinders. In this project, the fork lifting cylinder to be serviced and its seal to be replaced. We have delivered this project in 5 working days. Our client is happy with quick delivery which saved their productive hours.",
     preview: "https://dummyimage.com/200x200/ddd/fff&amp;text=Image",
     altText: "Image1",
-    from: "Nov-2019",
-    to: "Dec-2019"
+    from: "Jan-2020",
+    to: "Jan-2020"
     },
-    {title: "Project Title 2", 
-    description: "Project description 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    {title: "CNC Hydraulics cyclinder replacement",
+    description: "We have replaced Dooshan CNC machine hydraulic cylinder due to existing cylinder life is expired. We have used existing cylinder seals as it is recently replaced by our client, by which we help our client reduce their cost of service.",
     preview: "https://wplook.com/wp-content/uploads/2018/03/instagram-photo-size-square-1080.jpg",
     altText: "Image2",
-    from: "Nov-2020",
-    to: "Dec-2020"
-    },
-    {title: "Project Title 3", 
-    description: "Project description 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    preview: "https://i.pinimg.com/originals/c8/d9/24/c8d92434ab7311713b80e59fcefb8bc9.jpg",
-    altText: "Image3",
-    from: "Jan-2019",
+    from: "Dec-2020",
     to: "Present"
     }
 ];

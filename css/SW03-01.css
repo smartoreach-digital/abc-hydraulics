@@ -65,6 +65,7 @@
   font-size: 1.4rem;
   vertical-align: middle;
   margin: auto;
+  padding: 10px;
 }
 @media (max-width:576px) {
   .SW03-01-grid{

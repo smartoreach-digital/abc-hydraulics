@@ -108,20 +108,22 @@ body {
   text-align: center;
   color: rgb(42, 29, 138);
   margin-bottom: 0;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.8rem;
 }
 .SW06-01-B-card>h3 a {
   text-decoration: none;
-  color: #444;
 }
 .SW06-01-B-card>h4 {
   text-align: center;
-  color:  rgb(44,63,78);
+  color: rgb(81,103,235);
   margin-top: 16px;
   margin-bottom: 0;
   font-size: 1rem;
   font-weight: bold;
   letter-spacing: 0.1rem;
+  font-weight: 500;
 }
 .SW06-01-B-card>p {
   color: rgb(150,150,150);
