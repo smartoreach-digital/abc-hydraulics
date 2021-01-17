@@ -111,6 +111,12 @@ body {
   font-size: 1.1rem;
   font-weight: 500;
   line-height: 1.8rem;
+  padding: 0 5px;
+  display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 .SW06-01-B-card>h3 a {
   text-decoration: none;

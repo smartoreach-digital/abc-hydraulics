@@ -156,7 +156,9 @@
 .SW01-01-B-nav-about-sm {
   display: none;
 }
-
+.navbar-brand img {
+  width: 180px;
+}
 @media (max-width:576px) {
   .SW01-01-B-btn-callnow {
     display: none;
