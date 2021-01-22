@@ -25,6 +25,9 @@
   grid-gap: 30px;
   row-gap:60px;
 }
+.SW04-01-grid > a {
+  text-decoration: none;
+}
 
 .SW04-01-card {
   border-radius: 10px;
@@ -43,9 +46,9 @@ box-shadow:  6px 6px 12px #ced1d4,
 }
 
 .SW04-01-img img {
-  width: 60%;
+  width: 80%;
   object-fit: contain;
-  transform: translateY(-15%);
+  /* transform: translateY(-5%); */
 }
 
 .SW04-01-card>h3 {
