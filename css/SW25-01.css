@@ -102,15 +102,15 @@ h3 {
 }
 
 .SW25-01-service-projects-cards-img-url1 {
-    background-image: url('https://dummyimage.com/200x200/ddd/fff&text=Image');
+    background-image: url('/images/SC1_Item_1_P1.jpg');
 }
 
 .SW25-01-service-projects-cards-img-url2 {
-    background-image: url('https://www.elmhurst.edu/wp-content/uploads/2018/12/5-skills-project-management-degree-elmhurst-college-infographic-thumb.jpg');
+    background-image: url('/images/SC1_Item_1_P2.jpg');
 }
 
 .SW25-01-service-projects-cards-img-url3 {
-    background-image: url('https://commit-global.com/wp-content/uploads/2018/06/Project-Management.jpg');
+    background-image: url('/images/SC1_Item_1_P1.jpg');
 }
 
 .SW25-01-service-projects-cards-img {
