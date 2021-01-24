@@ -77,18 +77,8 @@
   align-items: center;
   z-index: 40;
 }
-.SW08-01-about-img-outline {
-  width: 200px;
-  height: 200px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 10px;
-  border: solid 1px rgb(220,220,220);
-  background-color: #fff;
-}
 .SW08-01-about-img img {
-  width: 80%;
+  width: 70%;
   object-fit: contain;
 }
 .SW08-01-about-text {

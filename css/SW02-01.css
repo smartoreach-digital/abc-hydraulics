@@ -4,15 +4,7 @@
   font-family: 'Roboto', sans-serif;
 }
 
-#SW02-01::after {
-  content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0,0,0,.6);
-}
+
 #SW02-01 {
   display: flex;
   justify-content: center;
@@ -22,7 +14,6 @@
   background-position: center;
   background-size: cover;
   margin-top: 80px;
-  position: relative;
 }
 
 .SW02-01 {
@@ -31,12 +22,11 @@
   padding-bottom: 150px;
   display: grid;
   justify-content: center;
-  z-index: 10;
 }
 .SW02-01 h1 {
   text-align: center;
   font-size: 2.5rem;
-  color: #fff;
+  color: #444;
 }
 .SW02-01 p {
   margin-top: 20px;

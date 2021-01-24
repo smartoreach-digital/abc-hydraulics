@@ -1,12 +1,12 @@
 let logoData = [
-{ url: './images/logo1.gif', name: 'logo1', altText: 'logo1'},
-{ url: './images/logo2.gif', name: 'logo2', altText: 'logo2'},
-{ url: './images/logo3.gif', name: 'logo3', altText: 'logo3'},
-{ url: './images/logo4.gif', name: 'logo4', altText: 'logo4'},
-{ url: './images/logo5.gif', name: 'logo5', altText: 'logo5'},
-{ url: './images/logo6.gif', name: 'logo6', altText: 'logo6'},
-{ url: './images/logo7.gif', name: 'logo7', altText: 'logo7'},
-{ url: './images/logo8.gif', name: 'logo8', altText: 'logo8'}
+{ url: './images/client1.jpg', name: 'logo1', altText: 'logo1'},
+{ url: './images/client2.png', name: 'logo2', altText: 'logo2'},
+{ url: './images/client3.png', name: 'logo3', altText: 'logo3'},
+{ url: './images/client4.png', name: 'logo4', altText: 'logo4'},
+{ url: './images/client5.png', name: 'logo5', altText: 'logo5'},
+{ url: './images/client6.png', name: 'logo6', altText: 'logo6'},
+{ url: './images/client7.png', name: 'logo7', altText: 'logo7'},
+{ url: './images/client8.png', name: 'logo8', altText: 'logo8'}
 ];
 
 let htmlstr = "";
