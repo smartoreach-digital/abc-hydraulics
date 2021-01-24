@@ -27,10 +27,11 @@
   background-color: #fff;
 }
 .SW17-01-card img {
-  width: 100%;
   object-fit: contain;
 }
-
+.SW17-01-card img {
+  width: 70%;
+}
 
 @media (max-width:576px) {
   #SW17-01 > h2 {

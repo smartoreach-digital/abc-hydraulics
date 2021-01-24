@@ -79,3 +79,11 @@ box-shadow:  6px 6px 12px #ced1d4,
 .SW04-01-btn a:hover {
   background-color: rgb(238,238,238);
 }
+.SW04-01-grid > a {
+  text-decoration: none;
+}
+.SW04-01-img img {
+  width: 80%;
+  object-fit: contain;
+  /* transform: translateY(-5%); */
+}

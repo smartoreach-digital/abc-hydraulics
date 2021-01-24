@@ -92,6 +92,25 @@
   object-fit: contain;
   margin-right: 10px;
 }
+#SW02-01::after {
+  content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.6);
+}
+#SW02-01 {
+position: relative;
+}
+.SW02-01 {
+  z-index: 10;
+}
+.SW02-01 h1 {
+  color: #fff;
+}
+
 @media (max-width:576px) {
   .SW02-01 {
     padding: 0;

@@ -48,6 +48,12 @@
   background-color: rgba(0,0,0,0.4);
 
 }
+.SW18-01-card h3 {
+   background-color: rgba(0,0,0,0.4);
+ }
+ .SW18-01-card h3:hover {
+  background-color: rgba(0,0,0,0.6);
+  }
 
 @media (max-width:576px) {
   #SW18-01 > h2 {

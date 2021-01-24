@@ -149,3 +149,21 @@ body {
   top: 100px;
   /* width: 16%; */
 }
+.SW06-01-B-nav-ul li {
+  padding: 8px 5px 8px 40px;
+  border-top: 1px solid #eee;
+  -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+.SW06-01-B-nav-ul a {
+  color: #444;
+  text-decoration: none;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
