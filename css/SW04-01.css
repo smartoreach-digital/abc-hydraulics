@@ -45,7 +45,7 @@ box-shadow:  6px 6px 12px #ced1d4,
 .SW04-01-img img {
   width: 60%;
   object-fit: contain;
-  transform: translateY(-15%);
+  /* transform: translateY(-15%); */
 }
 
 .SW04-01-card>h3 {
